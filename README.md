@@ -1,1 +1,1 @@
-# configs
+My simple repo of configs
